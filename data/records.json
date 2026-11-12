@@ -1,0 +1,965 @@
+{
+  "version": 1,
+  "records": [
+    {
+      "shard": "s0",
+      "generation": 1,
+      "country": "DE",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 10200,
+      "weight": 1,
+      "id": "r0000"
+    },
+    {
+      "shard": "s0",
+      "generation": 1,
+      "country": "FR",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 211,
+      "weight": 2,
+      "id": "r0001"
+    },
+    {
+      "shard": "s0",
+      "generation": 1,
+      "country": "DE",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 222,
+      "weight": 3,
+      "id": "r0002"
+    },
+    {
+      "shard": "s0",
+      "generation": 1,
+      "country": "FR",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 233,
+      "weight": 4,
+      "id": "r0003"
+    },
+    {
+      "shard": "s0",
+      "generation": 1,
+      "country": "DE",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 244,
+      "weight": 5,
+      "id": "r0004"
+    },
+    {
+      "shard": "s0",
+      "generation": 1,
+      "country": "FR",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 255,
+      "weight": 6,
+      "id": "r0005"
+    },
+    {
+      "shard": "s0",
+      "generation": 1,
+      "country": "DE",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 266,
+      "weight": 7,
+      "id": "r0006"
+    },
+    {
+      "shard": "s0",
+      "generation": 1,
+      "country": "FR",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 277,
+      "weight": 8,
+      "id": "r0007"
+    },
+    {
+      "shard": "s0",
+      "generation": 1,
+      "country": "DE",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 288,
+      "weight": 9,
+      "id": "r0008"
+    },
+    {
+      "shard": "s0",
+      "generation": 1,
+      "country": "FR",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 299,
+      "weight": 10,
+      "id": "r0009"
+    },
+    {
+      "shard": "s0",
+      "generation": 1,
+      "country": "DE",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 310,
+      "weight": 1,
+      "id": "r0010"
+    },
+    {
+      "shard": "s0",
+      "generation": 1,
+      "country": "FR",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 321,
+      "weight": 2,
+      "id": "r0011"
+    },
+    {
+      "shard": "s1",
+      "generation": 1,
+      "country": "DE",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 332,
+      "weight": 3,
+      "id": "r0012"
+    },
+    {
+      "shard": "s1",
+      "generation": 1,
+      "country": "FR",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 343,
+      "weight": 4,
+      "id": "r0013"
+    },
+    {
+      "shard": "s1",
+      "generation": 1,
+      "country": "DE",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 354,
+      "weight": 5,
+      "id": "r0014"
+    },
+    {
+      "shard": "s1",
+      "generation": 1,
+      "country": "FR",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 365,
+      "weight": 6,
+      "id": "r0015"
+    },
+    {
+      "shard": "s1",
+      "generation": 1,
+      "country": "DE",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 376,
+      "weight": 7,
+      "id": "r0016"
+    },
+    {
+      "shard": "s1",
+      "generation": 1,
+      "country": "FR",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 10387,
+      "weight": 8,
+      "id": "r0017"
+    },
+    {
+      "shard": "s1",
+      "generation": 1,
+      "country": "DE",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 398,
+      "weight": 9,
+      "id": "r0018"
+    },
+    {
+      "shard": "s1",
+      "generation": 1,
+      "country": "FR",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 409,
+      "weight": 10,
+      "id": "r0019"
+    },
+    {
+      "shard": "s1",
+      "generation": 1,
+      "country": "DE",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 420,
+      "weight": 1,
+      "id": "r0020"
+    },
+    {
+      "shard": "s1",
+      "generation": 1,
+      "country": "FR",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 431,
+      "weight": 2,
+      "id": "r0021"
+    },
+    {
+      "shard": "s1",
+      "generation": 1,
+      "country": "DE",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 442,
+      "weight": 3,
+      "id": "r0022"
+    },
+    {
+      "shard": "s1",
+      "generation": 1,
+      "country": "FR",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 453,
+      "weight": 4,
+      "id": "r0023"
+    },
+    {
+      "shard": "s2",
+      "generation": 1,
+      "country": "DE",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 464,
+      "weight": 5,
+      "id": "r0024"
+    },
+    {
+      "shard": "s2",
+      "generation": 1,
+      "country": "FR",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 475,
+      "weight": 6,
+      "id": "r0025"
+    },
+    {
+      "shard": "s2",
+      "generation": 1,
+      "country": "DE",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 486,
+      "weight": 7,
+      "id": "r0026"
+    },
+    {
+      "shard": "s2",
+      "generation": 1,
+      "country": "FR",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 497,
+      "weight": 8,
+      "id": "r0027"
+    },
+    {
+      "shard": "s2",
+      "generation": 1,
+      "country": "DE",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 508,
+      "weight": 9,
+      "id": "r0028"
+    },
+    {
+      "shard": "s2",
+      "generation": 1,
+      "country": "FR",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 519,
+      "weight": 10,
+      "id": "r0029"
+    },
+    {
+      "shard": "s2",
+      "generation": 1,
+      "country": "DE",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 530,
+      "weight": 1,
+      "id": "r0030"
+    },
+    {
+      "shard": "s2",
+      "generation": 1,
+      "country": "FR",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 541,
+      "weight": 2,
+      "id": "r0031"
+    },
+    {
+      "shard": "s2",
+      "generation": 1,
+      "country": "DE",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 552,
+      "weight": 3,
+      "id": "r0032"
+    },
+    {
+      "shard": "s2",
+      "generation": 1,
+      "country": "FR",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 563,
+      "weight": 4,
+      "id": "r0033"
+    },
+    {
+      "shard": "s2",
+      "generation": 1,
+      "country": "DE",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 10574,
+      "weight": 5,
+      "id": "r0034"
+    },
+    {
+      "shard": "s2",
+      "generation": 1,
+      "country": "FR",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 585,
+      "weight": 6,
+      "id": "r0035"
+    },
+    {
+      "shard": "s3",
+      "generation": 1,
+      "country": "DE",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 596,
+      "weight": 7,
+      "id": "r0036"
+    },
+    {
+      "shard": "s3",
+      "generation": 1,
+      "country": "FR",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 607,
+      "weight": 8,
+      "id": "r0037"
+    },
+    {
+      "shard": "s3",
+      "generation": 1,
+      "country": "DE",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 618,
+      "weight": 9,
+      "id": "r0038"
+    },
+    {
+      "shard": "s3",
+      "generation": 1,
+      "country": "FR",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 629,
+      "weight": 10,
+      "id": "r0039"
+    },
+    {
+      "shard": "s3",
+      "generation": 1,
+      "country": "DE",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 640,
+      "weight": 1,
+      "id": "r0040"
+    },
+    {
+      "shard": "s3",
+      "generation": 1,
+      "country": "FR",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 651,
+      "weight": 2,
+      "id": "r0041"
+    },
+    {
+      "shard": "s3",
+      "generation": 1,
+      "country": "DE",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 662,
+      "weight": 3,
+      "id": "r0042"
+    },
+    {
+      "shard": "s3",
+      "generation": 1,
+      "country": "FR",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 673,
+      "weight": 4,
+      "id": "r0043"
+    },
+    {
+      "shard": "s3",
+      "generation": 1,
+      "country": "DE",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 684,
+      "weight": 5,
+      "id": "r0044"
+    },
+    {
+      "shard": "s3",
+      "generation": 1,
+      "country": "FR",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 695,
+      "weight": 6,
+      "id": "r0045"
+    },
+    {
+      "shard": "s3",
+      "generation": 1,
+      "country": "DE",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 706,
+      "weight": 7,
+      "id": "r0046"
+    },
+    {
+      "shard": "s3",
+      "generation": 1,
+      "country": "FR",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 717,
+      "weight": 8,
+      "id": "r0047"
+    },
+    {
+      "shard": "s4",
+      "generation": 1,
+      "country": "DE",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 728,
+      "weight": 9,
+      "id": "r0048"
+    },
+    {
+      "shard": "s4",
+      "generation": 1,
+      "country": "FR",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 739,
+      "weight": 10,
+      "id": "r0049"
+    },
+    {
+      "shard": "s4",
+      "generation": 1,
+      "country": "DE",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 750,
+      "weight": 1,
+      "id": "r0050"
+    },
+    {
+      "shard": "s4",
+      "generation": 1,
+      "country": "FR",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 10761,
+      "weight": 2,
+      "id": "r0051"
+    },
+    {
+      "shard": "s4",
+      "generation": 1,
+      "country": "DE",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 772,
+      "weight": 3,
+      "id": "r0052"
+    },
+    {
+      "shard": "s4",
+      "generation": 1,
+      "country": "FR",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 783,
+      "weight": 4,
+      "id": "r0053"
+    },
+    {
+      "shard": "s4",
+      "generation": 1,
+      "country": "DE",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 794,
+      "weight": 5,
+      "id": "r0054"
+    },
+    {
+      "shard": "s4",
+      "generation": 1,
+      "country": "FR",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 805,
+      "weight": 6,
+      "id": "r0055"
+    },
+    {
+      "shard": "s4",
+      "generation": 1,
+      "country": "DE",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 816,
+      "weight": 7,
+      "id": "r0056"
+    },
+    {
+      "shard": "s4",
+      "generation": 1,
+      "country": "FR",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 827,
+      "weight": 8,
+      "id": "r0057"
+    },
+    {
+      "shard": "s4",
+      "generation": 1,
+      "country": "DE",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 838,
+      "weight": 9,
+      "id": "r0058"
+    },
+    {
+      "shard": "s4",
+      "generation": 1,
+      "country": "FR",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 849,
+      "weight": 10,
+      "id": "r0059"
+    },
+    {
+      "shard": "s5",
+      "generation": 1,
+      "country": "DE",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 860,
+      "weight": 1,
+      "id": "r0060"
+    },
+    {
+      "shard": "s5",
+      "generation": 1,
+      "country": "FR",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 871,
+      "weight": 2,
+      "id": "r0061"
+    },
+    {
+      "shard": "s5",
+      "generation": 1,
+      "country": "DE",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 882,
+      "weight": 3,
+      "id": "r0062"
+    },
+    {
+      "shard": "s5",
+      "generation": 1,
+      "country": "FR",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 893,
+      "weight": 4,
+      "id": "r0063"
+    },
+    {
+      "shard": "s5",
+      "generation": 1,
+      "country": "DE",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 904,
+      "weight": 5,
+      "id": "r0064"
+    },
+    {
+      "shard": "s5",
+      "generation": 1,
+      "country": "FR",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 915,
+      "weight": 6,
+      "id": "r0065"
+    },
+    {
+      "shard": "s5",
+      "generation": 1,
+      "country": "DE",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 926,
+      "weight": 7,
+      "id": "r0066"
+    },
+    {
+      "shard": "s5",
+      "generation": 1,
+      "country": "FR",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 937,
+      "weight": 8,
+      "id": "r0067"
+    },
+    {
+      "shard": "s5",
+      "generation": 1,
+      "country": "DE",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 10948,
+      "weight": 9,
+      "id": "r0068"
+    },
+    {
+      "shard": "s5",
+      "generation": 1,
+      "country": "FR",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 959,
+      "weight": 10,
+      "id": "r0069"
+    },
+    {
+      "shard": "s5",
+      "generation": 1,
+      "country": "DE",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 970,
+      "weight": 1,
+      "id": "r0070"
+    },
+    {
+      "shard": "s5",
+      "generation": 1,
+      "country": "FR",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 981,
+      "weight": 2,
+      "id": "r0071"
+    },
+    {
+      "shard": "s6",
+      "generation": 1,
+      "country": "DE",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 992,
+      "weight": 3,
+      "id": "r0072"
+    },
+    {
+      "shard": "s6",
+      "generation": 1,
+      "country": "FR",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 1003,
+      "weight": 4,
+      "id": "r0073"
+    },
+    {
+      "shard": "s6",
+      "generation": 1,
+      "country": "DE",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 1014,
+      "weight": 5,
+      "id": "r0074"
+    },
+    {
+      "shard": "s6",
+      "generation": 1,
+      "country": "FR",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 1025,
+      "weight": 6,
+      "id": "r0075"
+    },
+    {
+      "shard": "s6",
+      "generation": 1,
+      "country": "DE",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 1036,
+      "weight": 7,
+      "id": "r0076"
+    },
+    {
+      "shard": "s6",
+      "generation": 1,
+      "country": "FR",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 1047,
+      "weight": 8,
+      "id": "r0077"
+    },
+    {
+      "shard": "s6",
+      "generation": 1,
+      "country": "DE",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 1058,
+      "weight": 9,
+      "id": "r0078"
+    },
+    {
+      "shard": "s6",
+      "generation": 1,
+      "country": "FR",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 1069,
+      "weight": 10,
+      "id": "r0079"
+    },
+    {
+      "shard": "s6",
+      "generation": 1,
+      "country": "DE",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 1080,
+      "weight": 1,
+      "id": "r0080"
+    },
+    {
+      "shard": "s6",
+      "generation": 1,
+      "country": "FR",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 1091,
+      "weight": 2,
+      "id": "r0081"
+    },
+    {
+      "shard": "s6",
+      "generation": 1,
+      "country": "DE",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 1102,
+      "weight": 3,
+      "id": "r0082"
+    },
+    {
+      "shard": "s6",
+      "generation": 1,
+      "country": "FR",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 1113,
+      "weight": 4,
+      "id": "r0083"
+    },
+    {
+      "shard": "s7",
+      "generation": 1,
+      "country": "DE",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 1124,
+      "weight": 5,
+      "id": "r0084"
+    },
+    {
+      "shard": "s7",
+      "generation": 1,
+      "country": "FR",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 11135,
+      "weight": 6,
+      "id": "r0085"
+    },
+    {
+      "shard": "s7",
+      "generation": 1,
+      "country": "DE",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 1146,
+      "weight": 7,
+      "id": "r0086"
+    },
+    {
+      "shard": "s7",
+      "generation": 1,
+      "country": "FR",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 1157,
+      "weight": 8,
+      "id": "r0087"
+    },
+    {
+      "shard": "s7",
+      "generation": 1,
+      "country": "DE",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 1168,
+      "weight": 9,
+      "id": "r0088"
+    },
+    {
+      "shard": "s7",
+      "generation": 1,
+      "country": "FR",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 1179,
+      "weight": 10,
+      "id": "r0089"
+    },
+    {
+      "shard": "s7",
+      "generation": 1,
+      "country": "DE",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 1190,
+      "weight": 1,
+      "id": "r0090"
+    },
+    {
+      "shard": "s7",
+      "generation": 1,
+      "country": "FR",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 1201,
+      "weight": 2,
+      "id": "r0091"
+    },
+    {
+      "shard": "s7",
+      "generation": 1,
+      "country": "DE",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 1212,
+      "weight": 3,
+      "id": "r0092"
+    },
+    {
+      "shard": "s7",
+      "generation": 1,
+      "country": "FR",
+      "tier": "standard",
+      "currency": "EUR",
+      "cents": 1223,
+      "weight": 4,
+      "id": "r0093"
+    },
+    {
+      "shard": "s7",
+      "generation": 1,
+      "country": "DE",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 1234,
+      "weight": 5,
+      "id": "r0094"
+    },
+    {
+      "shard": "s7",
+      "generation": 1,
+      "country": "FR",
+      "tier": "express",
+      "currency": "EUR",
+      "cents": 1245,
+      "weight": 6,
+      "id": "r0095"
+    }
+  ]
+}
