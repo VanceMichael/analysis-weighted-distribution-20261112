@@ -13,7 +13,7 @@ cents 是单次运费，weight 为频次，generation 是分片的完整替换�
 npm ci --ignore-scripts --no-audit --no-fund --offline
 npm run build
 npm test
-npm start
+npm run summary
 node src/cli.js inspect --input data/records.json
 node src/cli.js summary --input data/records.json --out var/summary.json
 npm run demo
